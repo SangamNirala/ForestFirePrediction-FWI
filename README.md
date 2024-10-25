@@ -67,5 +67,5 @@ The following machine learning models were trained and evaluated:
 ## Contact
 For any questions or inquiries, please contact:
 
-Your Name: Mohammad Aadil
-Email: shaikhaadil8855@gmail.com
+Your Name: Sangam Nirala
+Email: sangamnirala75@gmai.com
